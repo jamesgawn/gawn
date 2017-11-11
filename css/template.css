@@ -1,0 +1,26 @@
+html, body {
+    height: 100%;
+    min-height: 100%;
+    color: whitesmoke;
+    background-color: #222222;
+}
+
+div.container-fluid {
+    height: 100%;
+    overflow: hidden;
+}
+
+img.profile-picture {
+    border-radius: 50%;
+    width: 300px;
+    align-self: center;
+}
+
+a {
+    color: orange;
+}
+
+a:hover {
+    color: darkorange;
+    text-decoration: none;
+}
