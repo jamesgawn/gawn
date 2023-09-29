@@ -1,0 +1,2 @@
+/
+  content-security-policy: default-src 'none'; img-src 'self'; script-src 'self'; style-src 'self'
