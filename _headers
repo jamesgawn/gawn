@@ -1,2 +1,2 @@
 /
-  content-security-policy: default-src 'none'; img-src 'self'; script-src 'self' static.cloudflareinsights.com; style-src 'self' cdn.jsdelivr.net; frame-ancestors 'none'; font-src maxcdn.bootstrapcdn.com; connect-src cloudflareinsights.com
+  content-security-policy: default-src 'none'; img-src 'self'; script-src 'self' static.cloudflareinsights.com kit.fontawesome.com; style-src 'self' cdn.jsdelivr.net; frame-ancestors 'none'; connect-src cloudflareinsights.com
