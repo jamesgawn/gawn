@@ -1,2 +1,2 @@
 /
-  content-security-policy: default-src 'none'; img-src 'self'; script-src 'self'; style-src 'self' maxcdn.bootstrapcdn.com;
+  content-security-policy: default-src 'none'; img-src 'self'; script-src 'self'; style-src 'self' maxcdn.bootstrapcdn.com; frame-ancestors 'none'
